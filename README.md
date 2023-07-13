@@ -25,9 +25,3 @@ Decision Tree Classifier: Decision Tree is a tree-based supervised learning algo
 Naive Bayes Classifier: Naive Bayes is a probabilistic classifier based on Bayes' theorem with an assumption of independence between the features. It calculates the probability of each class given the input features and selects the class with the highest probability. Naive Bayes is computationally efficient, even with a large number of features. It works well with categorical and discrete data and performs well in text classification and spam filtering tasks. However, the independence assumption may not hold in some cases, impacting the accuracy of the model.
 
 In the given project, random sampling, stratified sampling, and systematic sampling were used to create representative samples from the population. Among the models evaluated, the Random Forest Classifier achieved the highest accuracy when random sampling was used. The Random Forest algorithm combines the predictions of multiple decision trees, providing a robust and accurate classification model. However, the choice of sampling technique and model may vary depending on the specific characteristics of the dataset, problem domain, and desired objectives.
-
-
-
-
-
-Regenerate response
